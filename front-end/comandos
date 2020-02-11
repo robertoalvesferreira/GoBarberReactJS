@@ -1,2 +1,5 @@
-//icones
+//biblioteca de icones
 yarn add react-icons
+
+//consumir api
+yarn add axios
